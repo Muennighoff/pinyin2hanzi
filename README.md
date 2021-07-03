@@ -14,3 +14,5 @@
 
 `python ./src/train.py`. 随便改变`train.py`用的数据。
 这个程序会在./data/里面造成新的start, emissions 和 transitions 的概率。
+
+91/100
